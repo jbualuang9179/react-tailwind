@@ -1,9 +1,20 @@
-import React from "react";
+import React from 'react';
+import Analytics from './components/Analytics';
+import Cards from './components/Cards';
+import Footer from './components/Footer';
+import Hero from './components/Hero';
+import Navbar from './components/Navbar';
+import Newsletter from './components/Newsletter';
 
 function App() {
   return (
     <div>
-        <h1>Auto Deploy react app to Github Page</h1>
+      <Navbar />
+      <Hero />
+      <Analytics />
+      <Newsletter />
+      <Cards />
+      <Footer />
     </div>
   );
 }
