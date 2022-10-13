@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/react-tailwind/static/css/main.e6c13ad2.css",
-    "main.js": "/react-tailwind/static/js/main.e3271fdd.js",
+    "main.css": "/react-tailwind/static/css/main.ecb1d829.css",
+    "main.js": "/react-tailwind/static/js/main.ebf7e297.js",
+    "static/media/laptop.jpg": "/react-tailwind/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/react-tailwind/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/react-tailwind/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/react-tailwind/static/media/triple.4eb8f19f4b4647321484.png",
     "index.html": "/react-tailwind/index.html",
-    "main.e6c13ad2.css.map": "/react-tailwind/static/css/main.e6c13ad2.css.map",
-    "main.e3271fdd.js.map": "/react-tailwind/static/js/main.e3271fdd.js.map"
+    "main.ecb1d829.css.map": "/react-tailwind/static/css/main.ecb1d829.css.map",
+    "main.ebf7e297.js.map": "/react-tailwind/static/js/main.ebf7e297.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.e3271fdd.js"
+    "static/css/main.ecb1d829.css",
+    "static/js/main.ebf7e297.js"
   ]
 }
