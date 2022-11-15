@@ -27,3 +27,6 @@ See the section about deployment for more information.
 
 npm eject
 Note: this is a one-way operation. Once you eject, you can't go back!
+
+Example Auto Deploy
+https://jbualuang9179.github.io/react-tailwind/
